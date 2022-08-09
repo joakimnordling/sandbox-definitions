@@ -1,6 +1,6 @@
 # IOXIO Dataspace Sandbox Definitions
 
-A dummy change.
+Another dummy change.
 
 This repository contains Data Product definitions for the IOXIO Dataspace Sandbox.
 
